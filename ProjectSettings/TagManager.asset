@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Item
+  - Player
+  - Ledge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PlayerUI
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1190600423
+    locked: 0
+  - name: Portal
+    uniqueID: 3312769781
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlayerLBodypart
+    uniqueID: 2809106823
+    locked: 0
+  - name: PlayerBody
+    uniqueID: 352505517
+    locked: 0
+  - name: PlayerRBodyPart
+    uniqueID: 2635629573
+    locked: 0
+  - name: Front
+    uniqueID: 2844462769
+    locked: 0
+  - name: PortalCurtain
+    uniqueID: 488811821
+    locked: 0
+  - name: RestartView
+    uniqueID: 2960118987
+    locked: 0
